@@ -22,8 +22,13 @@ with GitHub for their own personal account.
 
 ## Topics
 
-1.  [Forking](01-one.html)
-2.  [Cloning](02-two.html)
+1.  [Forking](01-forking.html)
+2.  [Cloning](02-cloning.html)
+3.  [Making Changes](03-making_changes.html)
+4.	[Pushing](04-pushing.html)
+5.	[Pull Request](05-pull_request.html)
+6.	[Sync All](06-sync_all.html)
+7.	[Conflicts](07-conflicts.html)
 
 ## Other Resources
 
