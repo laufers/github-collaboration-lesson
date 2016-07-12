@@ -6,8 +6,9 @@ minutes: 10
 ---
 > ## Learning Objectives {.objectives}
 >
-> * This is the first learning objective
-> * This is the second learning objective
+> * Fork a repsoitory in GitHub
+
+
 
 Paragraphs of text
 --- possibly including [definitions](reference.html#definitions) ---
