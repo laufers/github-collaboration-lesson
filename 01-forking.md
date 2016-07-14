@@ -36,11 +36,16 @@ In GitHub, making a copy of a repository is called forking. In the top right cor
 
 ![Fork the Repo](fig/01-fig_04.png)
 
-After you fork the repo, GitHub will automatically redirect you to your forked verison. It should look almost identical. The only change will be the owner has changed and there is a link below the name to original repo. 
+After you fork the repo, GitHub will automatically redirect you to your forked verison. The forked repository is identical to the original repo. The forked verison includes all of the commits and contributors as the original. 
+
+>## Selecting where to fork{.callout}
+> If you are a member of organizations on GitHub, you will need to select where you want to fork the repository. For this exercise, please select your personal GitHub account. 
+
+If we look at the title, we can see that the owner has changed. Now, our account name is listed before the name of the repository. There is also a link to the original repo. 
 
 ![The Forked Repo](fig/01-fig_05.png)
 
-Now that we have our own copy, we can start adding information! 
+Now that we have our own copy, we are ready to start adding information. 
 
 
 
